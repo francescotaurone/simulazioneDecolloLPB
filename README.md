@@ -8,3 +8,4 @@ Per simulare, è sufficiente:
 ```
 pitchgui
 ```
+Basato su http://ctms.engin.umich.edu/CTMS/index.php?example=AircraftPitch&section=SystemModeling, che ringrazio.
